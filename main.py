@@ -1,5 +1,4 @@
 import threading
-
 import pyttsx3
 from kivy.app import App
 from kivy.core.window import Window
